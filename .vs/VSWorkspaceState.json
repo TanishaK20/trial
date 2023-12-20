@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WindowsFormsApp1",
+    "\\WindowsFormsApp1\\Properties"
   ],
-  "SelectedNode": "\\D:\\NEW Assignmnet dotnet\\trial",
+  "SelectedNode": "\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
   "PreviewInSolutionExplorer": false
 }
